@@ -126,6 +126,7 @@ body {
   }
   
   .test2{
+    padding-top: 10vh!important;
     align-items:  center!important;
     width: 80vw!important;
     justify-content: center!important;
