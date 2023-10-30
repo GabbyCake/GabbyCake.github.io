@@ -122,11 +122,10 @@ body {
     height: 100vh!important;
     width: 100%;
     gap: 2%!important;
-    padding-top: 2vh!important;
+    padding-top: 10vh!important;
   }
   
   .test2{
-    padding-top: 10vh!important;
     align-items:  center!important;
     width: 80vw!important;
     justify-content: center!important;
