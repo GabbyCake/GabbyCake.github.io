@@ -127,6 +127,7 @@ body {
     width: 100%;
     gap: 2%!important;
     padding-top: 10vh!important;
+  padding-bottom: 10vh!important;
   }
   
   .test2{
@@ -169,14 +170,10 @@ body {
 width: 100vw;
     }
 
-  .me, .test{
-          padding-bottom: 10vh!important;
-  }
   
 /* Skills */
 
   #skills {
-    padding-top: 10vh!important;
     min-height: 50vh; /* Adjust the minimum height as needed */
     margin-left: 20px;
     margin-right: 20px;
@@ -191,9 +188,6 @@ width: 100vw;
   gap: 2vh!important;
 }
 
-  .skill_box{
-    padding-top: 10vh!important;
-  }
 
 .Skills h3{
 color: #2D3540;
