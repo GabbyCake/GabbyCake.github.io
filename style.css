@@ -115,6 +115,10 @@ body {
 
   /* About_me */
 
+  #About_me{
+    padding-bottom: 10vh!important;
+  }
+
   .test{
     display: flex;
     flex-direction: column!important;
