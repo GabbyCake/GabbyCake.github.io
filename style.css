@@ -163,8 +163,12 @@ body {
  
     .me img{
 width: 100vw;
-      padding-bottom: 10vh!important;;
     }
+
+  .me{
+          padding-bottom: 10vh!important;
+  }
+  
 /* Skills */
 
   #skills {
