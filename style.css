@@ -169,7 +169,7 @@ body {
 width: 100vw;
     }
 
-  .me{
+  .me, .test{
           padding-bottom: 10vh!important;
   }
   
