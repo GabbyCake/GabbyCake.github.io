@@ -514,13 +514,14 @@ width: 100%;
     /* skills b*/
 
     #skills {
-      padding-top: 13vh!important;
       min-height: 50vh; /* Adjust the minimum height as needed */
       margin-left: 20px;
       margin-right: 20px;
       position: static!important;
     }
     .skill_box{
+            padding-top: 13vh!important;
+
       display: flex;
       justify-content: center;
       align-items: center;
