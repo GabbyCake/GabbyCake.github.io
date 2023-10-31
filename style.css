@@ -123,6 +123,7 @@ body {
     width: 100%;
     gap: 2%!important;
     padding-top: 10vh!important;
+        padding-bottom: 10vh!important;
   }
   
   .test2{
@@ -130,6 +131,7 @@ body {
     width: 80vw!important;
     justify-content: center!important;
     padding-bottom: 2vh!important;
+
   }
   
   .desc, .contact {
