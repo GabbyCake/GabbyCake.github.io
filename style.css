@@ -162,7 +162,7 @@ body {
     }
  
     .me img{
-width: 100vw
+width: 100vw;
       padding-bottom: 10vh!important;;
     }
 /* Skills */
@@ -971,6 +971,10 @@ gap:8px;
  justify-content: flex-end;
 }
 
+.me img{
+  object-fit: cover!important;
+  padding-bottom: 10vh!important;
+}
 
 /* Skills */
 
