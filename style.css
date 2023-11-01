@@ -127,7 +127,6 @@ body {
     width: 100%;
     gap: 2%!important;
     padding-top: 10vh!important;
-  padding-bottom: 10vh!important;
   }
   
   .test2{
@@ -975,7 +974,6 @@ gap:8px;
 
 .me img{
   object-fit: cover!important;
-  padding-bottom: 10vh!important;
 }
 
 /* Skills */
